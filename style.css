@@ -1,0 +1,36 @@
+body{
+	font-family: helvetia, arial, sans-serif;
+}
+h1{
+	text-align: center;
+	margin:0 0 1em 0;
+}
+
+form{
+	background-color:#fff;
+	margin:2em auto;
+	max-width:600px;
+	padding:2em;
+	border-radius:4em;
+}
+form div{
+	margin:0 0 1em 0;
+	background-color:#fff;
+}
+
+#nameAndColor{
+	font-size: 20px;
+	font-weight: bold;
+	margin:1em 0;
+}
+
+footer{
+    position: absolute;
+    bottom: 0;
+    left:0;
+    display: inline-block;
+	text-align: center;
+  	background-color:#fff;
+  	width:100%;
+  	padding:0.5em 0 1em 0;
+}
